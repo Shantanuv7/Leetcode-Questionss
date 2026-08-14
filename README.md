@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
