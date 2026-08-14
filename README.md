@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -31,6 +33,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -48,10 +51,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
