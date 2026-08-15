@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -91,4 +92,9 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
