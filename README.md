@@ -87,14 +87,20 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
