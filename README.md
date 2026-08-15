@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0136-single-number) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
