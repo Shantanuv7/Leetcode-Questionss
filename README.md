@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -97,6 +98,7 @@
 | [0069-sqrtx](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
