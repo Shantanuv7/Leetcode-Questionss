@@ -2,22 +2,36 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
 
-        if (nums.size() == 1)
-            return nums[0];
+        // if (nums.size() == 1)
+        //     return nums[0];
 
-        int s = 1;
-        int e = nums.size() - 2;
+        int s = 0;
+        int e = nums.size() - 1;
 
         while (s <= e)
         {
             int mid = (s + e) / 2;
 
-            if (nums[mid] != nums[mid - 1] && nums[mid] != nums[mid + 1])
+            int currentvalue = nums[mid];
+
+            int leftvalue = -1;
+            if(mid -1 >= 0)
+            {
+                leftvalue = nums[mid-1];
+            }
+
+            int rightvalue = -1;
+            if(mid +1 < nums.size() )
+            {
+                rightvalue = nums[mid+1];
+            }
+
+            if (currentvalue != leftvalue && currentvalue != rightvalue)
             {
                 return nums[mid];
             }
 
-            if (nums[mid] == nums[mid - 1] && nums[mid] != nums[mid + 1])
+            if (currentvalue== leftvalue && currentvalue != rightvalue)
             {
                 if ((mid - 1) % 2 == 1)
                 {
@@ -29,7 +43,7 @@ public:
                 }
             }
 
-            if (nums[mid] != nums[mid - 1] && nums[mid] == nums[mid + 1])
+            if (currentvalue != leftvalue && currentvalue == rightvalue)
             {
                 if ((mid + 1) % 2 == 1)
                 {
@@ -42,9 +56,6 @@ public:
             }
         }
 
-        if (nums[0] != nums[1])
-            return nums[0];
-
-        return nums[nums.size() - 1];
+    return {};
     }
 };
