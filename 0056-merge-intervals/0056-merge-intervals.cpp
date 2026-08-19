@@ -2,21 +2,31 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& nums) {
 
-        int m = nums.size();
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < nums.size() - 1; i++)
+        vector<vector<int>> ans;
+
+        for (int i = 0; i < nums.size(); i++)
         {
-            if (nums[i][1] >= nums[i+1][0])
+            if (ans.empty())
             {
-                nums[i][1] = max(nums[i][1], nums[i+1][1]);
+                ans.push_back(nums[i]);
+            }
+            else
+            {
+                int last = ans.size() - 1;
 
-                nums.erase(nums.begin() + i + 1);
-
-                i--;
+                if (ans[last][1] >= nums[i][0])
+                {
+                    ans[last][1] = max(ans[last][1], nums[i][1]);
+                }
+                else
+                {
+                    ans.push_back(nums[i]);
+                }
             }
         }
 
-        return nums;
+        return ans;
     }
 };
