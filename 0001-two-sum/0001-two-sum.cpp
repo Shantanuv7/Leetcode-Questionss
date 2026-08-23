@@ -8,7 +8,7 @@ public:
 
       for (int i = 0; i < nums.size(); i++)
       {    
-         int required = target - nums[i];
+         int required = target - nums[i]; 
         if (mpp.find(required) != mpp.end())
         {
             return {mpp[required], i};
