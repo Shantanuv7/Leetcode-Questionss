@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@
 | [0054-spiral-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1901-find-a-peak-element-ii) |
 ## Ternary Search
 |  |
 | ------- |
