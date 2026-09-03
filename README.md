@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@
 | [0035-search-insert-position](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0704-binary-search) |
