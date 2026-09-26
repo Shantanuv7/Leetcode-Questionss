@@ -176,4 +176,9 @@
 | [0242-valid-anagram](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
