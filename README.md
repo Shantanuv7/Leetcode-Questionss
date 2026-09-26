@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -177,8 +178,10 @@
 | [0344-reverse-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
