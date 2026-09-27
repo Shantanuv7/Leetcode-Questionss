@@ -49,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
+| [2325-decode-the-message](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2325-decode-the-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0709-to-lower-case](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2325-decode-the-message](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2325-decode-the-message) |
 ## Stack
 |  |
 | ------- |
