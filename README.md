@@ -60,6 +60,7 @@
 | [0088-merge-sorted-array](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -107,6 +108,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0125-valid-palindrome](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantanuv7/Leetcode-Questionss/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
