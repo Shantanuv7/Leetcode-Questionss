@@ -1,29 +1,18 @@
+string ordercopyord;
 class Solution {
 public:
-    string customSortString(string order, string s) {
-        string ans = "";
 
-        for(int i = 0; i < order.size(); i++)
-        {
-            for(int j = 0; j < s.size();)
-            {
-                if(order[i] == s[j])
-                {
-                    ans.push_back(s[j]);
-                    s.erase(j, 1);
-                }
-                else
-                {
-                    j++;
-                }
-            }
-        }
+    static bool cmp(char ch1, char ch2)
+    {
+        return ordercopyord.find(ch1) < ordercopyord.find(ch2);
+    }
 
-        for(int i = 0; i < s.size(); i++)
-        {
-            ans.push_back(s[i]);
-        }
+    string customSortString(string order, string s)
+    {
+        ordercopyord = order;
 
-        return ans;
+        sort(s.begin(), s.end(), cmp); 
+
+        return s;
     }
 };
