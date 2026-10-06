@@ -32,10 +32,12 @@ public:
         {
             s[index] = max_freq_char;
             max_freq--;
-            arr[max_freq_char]--;
+          
             index+= 2;
 
         }
+
+        arr[max_freq_char] = 0;
 
         for(int i ='a';i<='z'; i++)
         {
